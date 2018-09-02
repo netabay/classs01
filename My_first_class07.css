@@ -1,0 +1,72 @@
+body{ background-color: #e5e9ec;}
+ 
+.container{
+	    
+       display:flex;
+      margin:0px;
+	  margin: 0px;
+      justify-content: left;
+  
+    }
+h1{text-align:center;
+	
+	margin:5px;
+	}
+ 
+.Myinformation{
+	background-color: #deba86;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+    font-family: 'Mirza', cursive;
+    border: 5px solid #ecddad;
+
+	
+
+}
+.unordered li{  list-style-type: none;
+text-align:left;
+font-size:20px;
+padding-bottom:10px;
+padding-top:10px;
+}
+.unordered li img {
+    max-width: 100%;
+}
+b{
+	    margin-right: 17px;
+    margin-left: -36px;
+    color: blue;
+}
+.subcontainer{
+               background-color:green;
+                display:flex;
+                flex-direction:column;
+               margin:10px 10px 0px 0px;
+			  }
+.MySelf{
+	background-color:#b1aaad8f;
+	padding: 10px;
+    border: 5px solid #ecddad;
+    font-family: 'Mirza', cursive;
+    font-size:25px;	
+}
+
+.MYeducation{
+	background-color:#e9f38b;
+    
+    padding: 10px;
+   border: 5px solid #ecddad;
+   font-size:25px;	
+	}
+.MyExperience{
+background-color:#dee2b5;
+	border: 5px solid #ecddad;
+    padding: 10px;
+  font-size:25px;	
+}
+.myhobbies{
+background-color:#cad654;
+	 padding: 10px;
+border: 5px solid #ecddad;
+font-size:25px;	
+}
